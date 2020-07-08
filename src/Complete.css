@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.gold-text {
+color:#c3a343;
+-webkit-text-fill-color: transparent;
+background: -webkit-linear-gradient(transparent, transparent),
+url(http://example.com/gold-texture-image.png) repeat;
+background: -o-linear-gradient(transparent, transparent);
+-webkit-background-clip: text;
+}
+
+.help{
+	
+	color: grey;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 900;
+	
+}
+
+.navback{
+	background-color: #fff0f2
+}
+
+
+
+.A{
+	font-family: 'Cinzel', serif;
+	font-weight: bold;
+	}
+	.B{
+	font-family: 'Cormorant Garamond', serif;}
+	.C{
+	font-family: 'DM Serif Display', serif;}
+	.D{
+	font-family: 'DM Serif Text', serif;}
+	.E{
+	font-family: 'Libre Caslon Display', serif;}
+	.F{
+	font-family: 'Noto Serif SC', serif;}
+	.G{
+	font-family: 'Open Sans Condensed', sans-serif;}
+	.H{
+	font-family: 'Philosopher', sans-serif;}
+	.I{
+	font-family: 'Tenor Sans', sans-serif;
+	color: grey;
+	}
+	.J{
+	font-family: 'Tenor Sans', sans-serif;
+	color: grey;
+	font-size: 10vw;
+	}
+	.K{
+	font-family: 'Cormorant', serif;}
+	.L{
+	font-family: 'Oranienbaum', serif;}
+	.M{
+	font-family: 'Chonburi', cursive;}
+	.N{
+	font-family: 'Rakkas', cursive;}
+	
