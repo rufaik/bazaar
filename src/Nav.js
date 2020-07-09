@@ -15,7 +15,7 @@ const Nav = () => {
 <a class="navbar-brand" href="/Home"><img  alt="D's Bazaar"
                     src='./JDBAZ.png' className ='w5'/></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <span class="white navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -31,11 +31,12 @@ const Nav = () => {
       </li>
     </ul>
     <form class="form-inline vanalign my-2 my-lg-0">
-      <a href="#4" className=" ">
+      <a href="#4">
         <img  alt='DBAZZAR' src='./van.png' className ='w3'/>
         <img  alt='DBAZZAR' src='./gap.png' className ='w1'/>
-      </a>
+      
         <button type="button" class="bun fw6 btn btn-primary btn-lg">BOOK NOW</button>
+    </a>
     </form>
 
   </div>
