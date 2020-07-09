@@ -22,7 +22,7 @@ const Services = () => {
     <div class=" serv card">
       <div class=" card-body">
         <h5 class="pt4 f1 tc card-title two fw6">Our Services</h5>
-        <div class="pb2 f3 fw5 tc card-title">
+        <div class="pb2 f3 fw6 tc card-title">
           <div> Venue Hire </div>
           <div> Catering Services </div>
           <div> Decorating Services </div>
