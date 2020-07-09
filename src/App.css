@@ -161,6 +161,10 @@ button {
 
 button:hover {background-color: #e7e7e7;}
 
+.vanalign{
+  display: block;
+}
+
 
 
 
