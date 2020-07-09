@@ -36,7 +36,7 @@ const Home = () => {
 
  
 
-    <div className="slide-container ml7 mt5 mt4-ns" >
+    <div className="slide-container ctr" >
       <Fade {...fadeProperties}>
         <div className="each-fade">
        

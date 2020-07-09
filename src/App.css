@@ -11,6 +11,9 @@
      background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
  }}*/
 
+.fix{
+      overflow-x: auto;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

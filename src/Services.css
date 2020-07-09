@@ -15,3 +15,7 @@ ul {
 	color: #901321;
 	border-color: #ddf6dd
 }
+
+.fix{
+      overflow-x: auto;
+}

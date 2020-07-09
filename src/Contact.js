@@ -7,7 +7,7 @@ import ZapierForm from 'react-zapier-form'
 
 const Contact = () => {
 	return (
-		<div >
+		<div className="fix">
 		
 		 <div className="conback">
 
@@ -18,7 +18,7 @@ const Contact = () => {
             {!success && !loading &&
                <div>
                <article id="4" className="conback br3 cardsz center" >
-<main className="pa4 pb0 conback black-80 newform">
+<main className="pa4 pb0 conback black-80 newform w-75 w-50-ns">
 		    <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
 		    <legend className=" two f1 fw6 pt5 ph0 mh0">Contact Us</legend>
                		<div className="mt1">

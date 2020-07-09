@@ -5,11 +5,11 @@ import './Services.css'
 
 const Locations = () => {
   return (
-  	<div className=" tc">
+  	<div className="tc">
 
 
 
-<div class="loca row" id="5">
+<div class="loca row ml0 mr0" id="5">
   <div class=" col-sm-12">
     <div class=" loca  card">
       <div class=" card-body">
@@ -18,9 +18,9 @@ const Locations = () => {
     </div>
   </div>
 </div>
-<div class="loca row" id="1">
+<div class="loca row ml0 mr0 pb5" id="1">
   <div class=" col-sm-4">
-    <div class=" loca tc mt3 pb5 card">
+    <div class=" loca tc mt3 card">
       <div class=" card-body">
         <img id="3"class="card-img-bottom w5" src='./dbaztran.png' alt="D's Bazaar"/>
         <h5 class=" card-text">38 Siaka Stevens Street,<br></br>Freetown, Sierra Leone</h5>

@@ -75,4 +75,9 @@ background: -o-linear-gradient(transparent, transparent);
 	font-family: 'Chonburi', cursive;}
 	.N{
 	font-family: 'Rakkas', cursive;}
+
+
+	.fix{
+      overflow-x: auto;
+}
 	

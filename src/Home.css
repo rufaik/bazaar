@@ -196,3 +196,11 @@ h3 {
  background-color: #901321;
   border-color: #901321
 }
+
+.fix{
+      overflow-x: auto;
+}
+
+.ctr {
+  margin: 0 auto;
+}
